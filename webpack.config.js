@@ -3,6 +3,7 @@ let MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 let conf = {
     entry: './src/main.js',
+    devtool: 'source-map',
     output: {
         path: path.resolve(__dirname, './dist/'),
         filename: 'main.js',

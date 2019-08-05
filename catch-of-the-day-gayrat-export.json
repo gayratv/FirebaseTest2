@@ -1,0 +1,46 @@
+{
+  "eventAttendees" : {
+    "fm" : {
+      "1" : "David",
+      "9" : "Alice"
+    },
+    "Событие2" : {
+      "2" : "Вася",
+      "3" : "Петя",
+      "4" : "Маша"
+    }
+  },
+  "events" : {
+    "fm" : {
+      "date" : "983275235320",
+      "name" : "Firebase Meetup"
+    }
+  },
+  "users" : {
+    "1" : {
+      "bio" : "Hello Im David",
+      "name" : "David",
+      "profileImg" : "http:\\a"
+    },
+    "9" : {
+      "bio" : "I work",
+      "name" : "Alice",
+      "profileImg" : "http:\\b"
+    },
+    "2" : {
+      "bio" : "Hello Im Вася",
+      "name" : "Вася",
+      "profileImg" : "http:\\a"
+    },
+    "3" : {
+      "bio" : "Hello Im Петя",
+      "name" : "Петя",
+      "profileImg" : "http:\\a"
+    },
+    "4" : {
+      "bio" : "Hello Im Маша",
+      "name" : "Маша",
+      "profileImg" : "http:\\a"
+    }
+  }
+}
